@@ -1,0 +1,28 @@
+﻿Build started 2017-02-27 12:54:06.
+     1>Project "C:\MehlichPwPlab1\PWPlab1\build\laborka.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "laborka.dir\Debug\laborka.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\MehlichPwPlab1\PWPlab1\src\Trygonometria /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"laborka.dir\Debug\\" /Fd"laborka.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\MehlichPwPlab1\PWPlab1\build\Debug\laborka.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib trygonometria\Debug\Trygonometria.lib /MANIFEST /ManifestFile:"laborka.dir\Debug\laborka.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/MehlichPwPlab1/PWPlab1/build/Debug/laborka.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/MehlichPwPlab1/PWPlab1/build/Debug/laborka.lib" /MACHINE:X86 laborka.dir\Debug\laborka.exe.embed.manifest.res
+         laborka.dir\Debug\main.obj  /machine:X86 /debug 
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"laborka.dir\Debug\laborka.exe.embed.manifest" /manifest laborka.dir\Debug\laborka.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         laborka.vcxproj -> C:\MehlichPwPlab1\PWPlab1\build\Debug\laborka.exe
+       FinalizeBuildStatus:
+         Deleting file "laborka.dir\Debug\laborka.unsuccessfulbuild".
+         Touching "laborka.dir\Debug\laborka.lastbuildstate".
+     1>Done Building Project "C:\MehlichPwPlab1\PWPlab1\build\laborka.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93
