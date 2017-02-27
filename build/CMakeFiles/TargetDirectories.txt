@@ -1,0 +1,3 @@
+C:/MehlichPwPlab1/build/CMakeFiles/laborka.dir
+C:/MehlichPwPlab1/build/CMakeFiles/ALL_BUILD.dir
+C:/MehlichPwPlab1/build/CMakeFiles/ZERO_CHECK.dir
