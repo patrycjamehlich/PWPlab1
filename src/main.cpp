@@ -11,6 +11,7 @@ int main()
 #ifdef USE_TRIGONOMETRY_DEGREE
 result = cos_degree(45.0);
 #else
+double pi=3.14;
 result = cos(pi/4.0);
 #endif
 }
