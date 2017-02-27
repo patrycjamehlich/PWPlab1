@@ -148,6 +148,9 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 //Dependencies for target
 Trygonometria_LIB_DEPENDS:STATIC=
 
+//Czy argumentami funkcji trygonometrycznych maja byc stopnie
+USE_TRIGONOMETRY_DEGREE:BOOL=ON
+
 //Value Computed by CMake
 lab1_BINARY_DIR:STATIC=C:/MehlichPwPlab1/PWPlab1/build
 
